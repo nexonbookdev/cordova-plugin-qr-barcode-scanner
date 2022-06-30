@@ -225,5 +225,16 @@
       android:drawableStart="@drawable/toggle_torch"
       android:visibility="invisible"/>
 
+    <Button
+      android:id="@+id/flip_button"
+      android:background="@color/transparent"
+      android:alpha="0.8"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="bottom|center"
+      android:drawableStart="@drawable/flip_camera"
+      android:drawableLeft="@drawable/flip_camera"
+      android:visibility="visible" />
+
 </merge>
     <!-- From: file:barcodescanner-lib-aar/barcodescanner/src/main/res/layout/capture.xml -->
