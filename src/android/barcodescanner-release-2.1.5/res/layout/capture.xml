@@ -226,7 +226,7 @@
       android:visibility="invisible"/>
 
     <Button
-      android:id="@+id/flip_button"
+      android:id="@+id/koo_button"
       android:background="@color/transparent"
       android:alpha="0.8"
       android:layout_width="wrap_content"
